@@ -1,0 +1,17 @@
+{
+  "name": "com.gameframe.postprocessing",
+  "displayName": "Gameframe.PostProcessing",
+  "version": "1.0.0",
+  "description": "Effects for the post processing stack",
+  "unity": "2019.1",
+  "unityRelease": "",
+  "keywords": [],
+  "author": {
+    "name": "Cory Leach",
+    "email": "cory.leach@gmail.com",
+    "url": "https://github.com/coryleach"
+  },
+  "dependencies": {
+    "com.unity.postprocessing": "2.1.7"
+  }
+}
