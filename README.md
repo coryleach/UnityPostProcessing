@@ -22,7 +22,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 ```js
 {
   "dependencies": {
-    "com.gameframe.infotables": "https://github.com/coryleach/UnityPostProcessing.git#1.0.0",
+    "com.gameframe.postprocessing": "https://github.com/coryleach/UnityPostProcessing.git#1.0.0",
     ...
   },
 }
